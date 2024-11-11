@@ -6,7 +6,7 @@ I am a person who loves to make other people's lives easier through technology. 
 
 - 🌍  I'm based in Germany
 - ✉️  You can contact me at [IhorAnDev@gmail.com](mailto:IhorAnDev@gmail.com)
-- 🚀  I'm currently working on [EduMentor](http://EduMentor.co)
+- 🚀  I'm currently working on PizzaPerfectionist
 - 🧠  I'm learning Machine Learning
 - 🤝  I'm open to collaborating on Projects that benefit people and the planet.
 - ⚡  I'm actually Superman.... But don't tell anyone ;-)
